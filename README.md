@@ -4,6 +4,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
+## Instructions : 
+    1. unzip the download code in destination folder 
+    2. npm install
+    3. Open project on 2 terminals 
+     Terminal 1.  run command : npm run json-run (used json server for student crud operation).
+     Terminal 2 . ng serve
+    4. After compilation of code open browser window type localhost:4200
+
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
